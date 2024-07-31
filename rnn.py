@@ -5,7 +5,7 @@ import zlib
 import time
  
 # Directory containing the files
-directory = r'C:\Users\Henriuqe\Desktop\wallpapers'
+directory = r'C:\your\path\here'
  
 # Function to generate a random filename
 def generate_random_filename(length=6):
